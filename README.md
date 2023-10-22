@@ -1,1 +1,1 @@
-# miniProject
+# 작은 성취감
